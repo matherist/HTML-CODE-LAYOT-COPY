@@ -69,30 +69,69 @@ menu .item{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: rgb(34, 33, 33);
+    border: 2px dashed #ffb742;
+    border-radius: 10px;
 }
 .item-text{
     display:flex;
     flex-direction: column;
+    background-color: rgb(34, 33, 33);
+}
+.item-text h2{
+    background-color: rgb(34, 33, 33);
+}
+.item-text p{
+    background-color: rgb(34, 33, 33);
+    color: azure;
 }
 menu img:first-child{
     width: 50px;
     height: 50px;
+    
+    background-color: rgb(34, 33, 33);
 }
 menu img:last-child{
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
+    
+    background-color: rgb(34, 33, 33);
 }
 footer{
+    width: 100%;
+    margin-top: 50px;
+    height: 300px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     background-color: #333;
 	padding: 5px;
+    background-color: black;
+}
+.footer-f{
+    background-color: black;
+    color: azure;
+}
+.footer-f h3{
+    background-color: black;
+}
+.footer-f p{
+    background-color: black;
+    color: rgb(151, 150, 150);
+}
+.footer-f a{
+    background-color: black;
+    color: #333;
+}
+.footer-f li{
+    background-color: black;
+}
+.footer-f ul{
+    background-color: black;
 }
 .footer {
-    background-color: #333;
     color: #fff;
     padding: 10px;
     text-align: center;
