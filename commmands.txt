@@ -1,0 +1,198 @@
+
+root@Dina:~# history
+history
+    1  password
+    2  passwd
+    3  exit
+    4  cd /root
+    5  ls
+    6  apt-get install apache2
+    7  apt-get install php7.0
+    8  apt-get install php5.0
+    9  apt-get upd
+   10  apt-get install mysql
+   11  sudo apt-get install mysql-server
+   12  sudo apt-get install php5 libapache2-mod-php5
+   13  sudo /etc/init.d/apache2 restart
+   14  php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";'
+   15  update-rc.d apache2 enable
+   16  update-rc.d mysql enable
+   17  apt-get install mysql
+   18  mysql
+   19  mysql -u root
+   20  mysql -u root -p 
+   21  netstat -latup
+   22  rm /var/www/index.html 
+   23  cp * /var/www/
+   24  cd /var/www/
+   25  ls
+   26  nano robots.txt
+   27  ls
+   28  cd seKRet/
+   29  ls
+   30  cd ../
+   31  ls
+   32  mkdir NewSecREtFolDerCredential
+   33  ls
+   34  cd NewSecREtFolDerCredential/
+   35  ls
+   36  cp config-dist.php config.php
+   37  ls
+   38  cd ../
+   39  mv NewSecREtFolDerCredential/ SecreTSMSgatwayLogin
+   40  ls
+   41  cd SecreTSMSgatwayLogin/
+   42  ls
+   43  cat config.php 
+   44  nano config.php 
+   45  ls
+   46  nano init.php 
+   47  nano config.php 
+   48  service mysql start
+   49  nc 127.0.0.1 3306
+   50  hello@mysql
+   51  mkdir angel1
+   52  ls
+   53  mkdir tmp
+   54  mkdir nothing
+   55  mkdir uploads
+   56  mkdir game
+   57  mkdir seKRet
+   58  cd /home/touhid/Downloads/playsms-1.4/
+   59  ls
+   60  ./install-playsms.sh 
+   61  nano install.conf
+   62  ./install.sh 
+   63  ls
+   64  ./install-playsms.sh
+   65  ld
+   66  ls
+   67  cd web/
+   68  ls
+   69  cp -R * /var/www/NewSecREtFolDerCredential/
+   70  cd ..
+   71  cd db/
+   72  ls
+   73  ls -la
+   74  mysql -r root -p 
+   75  mysql -u root -p 
+   76  mysqladmin 
+   77  mysqladmin -u root -p
+   78  mysqladmin  -p
+   79  mysqladmin 
+   80  mysqladmin password
+   81  mysqladmin password hello@mysql
+   82  mysqladmin -u root password hello@mysql
+   83  mysqladmin -u roothello@mysql
+   84  apt-get install mysqli
+   85  apt-get install php5.0
+   86  apt-get install php5
+   87  apt-get install php5-
+   88  apt-get install php5-mysqlnd
+   89  locate php.ini
+   90  nano /etc/php5/apache2/php.ini 
+   91  service apache2 retart
+   92  service apache2 restart
+   93  ls
+   94  cd Downloads/
+   95  ls
+   96  cd playsms-1.4/
+   97  ls
+   98  cd web/
+   99  ls
+  100  cp -r * /var/www/SecreTSMSgatwayLogin/
+  101  ls
+  102  cd ../
+  103  ls
+  104  cd ../
+  105  ls
+  106  cd ../
+  107  cd Desktop/
+  108  ls
+  109  cd ../Downloads/
+  110  ls
+  111  cp angeldina.jpg /var/www/
+  112  cp index.html /var/www/
+  113  which perl
+  114  cd
+  115  ls
+  116  nano flag.txt
+  117  md5sum flag.txt 
+  118  nano flag.txt
+  119  ls
+  120  pwd
+  121  cd /var/www/html/
+  122  ls
+  123  ls -la
+  124  ifconfig 
+  125  cd ../
+  126  ls
+  127  cd html/
+  128  ls
+  129  cd playsms/
+  130  ls
+  131  cat config
+  132  nano config.php 
+  133  cd ../
+  134  ls
+  135  rm -R * html/
+  136  rm -rf * html/
+  137  ls
+  138  mkdir SecreTSMSgatwayLogin
+  139  mkdir seKRet
+  140  mkdir uploads
+  141  mkdir nothing
+  142  mkdir ange1
+  143  mkdir tmp
+  144  mkdir angel1
+  145  ls
+  146  cd SecreTSMSgatwayLogin/
+  147  ls
+  148  cp config-dist.php config.php
+  149  nano config
+  150  nano config.php 
+  151  ls
+  152  cat init.php 
+  153  nano config.php 
+  154  ls
+  155  cd ..
+  156  ls
+  157  cd seKRet/
+  158  ls
+  159  wget http://192.168.1.122:8000/backup.zip
+  160  ls
+  161  unzip backup.zip 
+  162  ls
+  163  md5sum backup.zip 
+  164  cd ../
+  165  ls
+  166  nano /etc/sudoers
+  167  cd /
+  168  cd
+  169  ls
+  170  cat flag.txt 
+  171  nano flag.txt 
+  172  cat flag.txt 
+  173  nano /etc/sudoers
+  174  nano /etc/sudoers
+  175  su ls
+  176  rm ls
+  177  ls
+  178  history 
+  179  exit
+  180  cd root
+  181  ls
+  182  cd /
+  183  cd root
+  184  cat flag.txt
+  185  history
+root@Dina:~# passwd touhid 
+passwd touhid 
+Enter new UNIX password: 123123
+
+Retype new UNIX password: 123123
+
+passwd: password updated successfully
+root@Dina:~# 
+[*] 10.211.30.46 - Meterpreter session 1 closed.  Reason: Died
+
